@@ -1,9 +1,3 @@
-
-
-*{
-   background-color: #fff;
-}
-  
 .body-fondo{
     background-color: #fff;
    
@@ -20,6 +14,11 @@
     color:#313131;
     margin-top: 20px;
     margin-bottom: 40px;
+}
+
+.acc-text{
+    background-color: #313131;
+    color: #fff;
 }
 
 .botonind{
@@ -41,18 +40,56 @@
     border-radius: 20px;
 }
 
+.carousel-body{
+    margin-left: 30%;
+    height: 20%;
+    width: 40%;
+}
+
+.card-bg{
+    background-color: #313131;
+}
+
 .card-texto{
     margin-left: 0.25rem;
     margin-bottom:0.5rem;
     color:#313131;
     text-justify: none;
-    margin-left: 30px;
+    margin-left: 10px;
     margin-top: 10px;
 }
 
+.card-titulo{
+    font-size: 24px;
+    align-items: center;
+    border-bottom: 2px;
+    border-bottom-style: solid;
+    border-bottom-color: #313131;
+    color: #fff;
+    border-radius: 5px;
+    background-color: #B47938;
+    padding-bottom: 10px;
+}
+
+.card-cate{
+    width: 18rem;
+    height: 30rem;
+}
+
+.card-margen{
+    padding-bottom: 20px;
+}
+
+.card-texto-p{
+    color: #fff;
+    background-color: #313131;
+}
+
 .precio{
-    margin-top: 40px;
-    margin-bottom: 40px;
+    background-color: #313131;
+    color: #B47938;
+    margin-top: 20px;
+    margin-bottom: 30px;
     margin-left: 0px;
 }
 
@@ -65,14 +102,9 @@
     margin-right: 25px;
 }
 
-.card-titulo{
-    font-size: 20px;
-    align-items: center;
-    border-bottom: 2px;
-    border-bottom-style: solid;
-    border-bottom-color: #313131;
-    color: #313131;
-    padding-bottom: 20px;
+.lip{
+    background-color: #313131;
+    color: #fff;
 }
 
 .botoninfo{
@@ -86,19 +118,6 @@
     margin-bottom: 20px;
 }
 
-.card-cate{
-    width: 18rem;
-    height: 30rem;
-}
-
-.card-margen{
-    padding-bottom: 20px;
-}
-
-.info-card-sede{
-    margin-top: 1.5rem;
-}
-
 .img-card-cate{
     width: 304px;
     height: 230px;
@@ -110,23 +129,36 @@
     flex-grow: 1;
 }
 
+.footer-link{
+    margin-top: 20px;
+    margin-bottom: 30px;
+    margin-left: 50px;
+    color:#fff;
+    background-color: #313131;
+}
+
 .footer-style{
     border-top: 5px;
-    border-top-style: solid;
-    border-top-color: #313131;
+    background-color: #313131;
     margin-top: 80px;
     border-bottom: 5px;
-    border-bottom-style:solid;
-    border-bottom-color: #313131;
     padding-bottom: 40px;
 }
 
+.footer-text{
+    margin-top: 40px;
+    margin-bottom: 20px;
+    margin-left: 50px;
+    color:#fff;
+    background-color: #313131;
+}
+
 .formu{
+    padding-top: 25px;
     padding-right: 20px;
     padding-left: 20px;
     background-color: #ccc;
     border-color: #313131;
-    border-style: solid;
 }
 
 .form-back{
@@ -147,13 +179,6 @@
     background-color: #ccc;
 }
 
-.form-texto-titulo{
-    color:#313131;
-    margin-top: 20px;
-    margin-bottom: 40px;
-    background-color: #ccc;
-}
-
 .form-button{
     margin-top:30px;
     border-color: #000;
@@ -162,7 +187,6 @@
     border-radius: 20px;
     margin-bottom:10px;
 }
-
 
 .Frase{
     color: #313131;
@@ -204,11 +228,6 @@
     margin-left: 5%;
 }
 
-
-.img-card-cate{
-    height: 260px;
-}
-
 .itemp{
     text-align: left;
 }
@@ -217,17 +236,13 @@
     background-color: #313131;
 }
 
-.modal-footer-bg{
-    background-color: #ccc;
-}
-
 .modal-titulo{
     color: #fff;
-    background-color: #313131;
 }
 
 .modal-texto{
     color: #313131;
+    background-color: #fff;
 }
 
 .nav-logo{
@@ -236,9 +251,14 @@
     margin-left: 10%;
 }
 
+.nav-bg{
+    background-color: #313131;
+}
+
 .svg-footer{
     margin-top: 20px;
     margin-left: 50px;
+    background-color: #313131;
 }
 
 .svg-card{
@@ -248,19 +268,10 @@
 }
 
 .tarjetaprecios{
-    margin-top: 150px;
-    margin-left: 10%;
+    margin-top: 100px;
+    margin-left: 15%;
     padding-bottom: 80px;
-}
-
-.tituloplanes{
-    margin-top: 150px;
-    margin-left: 10%;
-    padding-bottom: 80px;
-}
-
-.textprimsede{
-    margin-top: 1.5rem;
+    align-content: center;
 }
 
 .Texto{
@@ -270,27 +281,12 @@
     margin-left: 30px;  
 }
 
-
 .Textoprincipal{
     color:#313131;
     margin-top: 40px;
     margin-bottom: 20px;
     margin-left: 15px;
     font-family: 'Rubik',sans-serif;
-}
-
-.Textopie{
-    margin-top: 40px;
-    margin-bottom: 20px;
-    margin-left: 50px;
-    color:#313131;
-}
-
-.linkpie{
-    margin-top: 20px;
-    margin-bottom: 30px;
-    margin-left: 50px;
-    color:#313131;
 }
 
 @media (max-width: 767px) {
@@ -335,10 +331,6 @@
 
     .card-margen{
         padding-bottom: 50px;
-    }
-    
-    .card-sedes{
-        margin-left:50px;
     }
     
     .img-card-cate{
