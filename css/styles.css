@@ -313,9 +313,10 @@
 @media (max-width: 767px) {
 
     .carousel-body{
+    margin-right: 40%;
     margin-top: 20px;
     height: 200px;
-    width: 380px;
+    width: 300px;
     }
     
     .im-index{
@@ -329,7 +330,7 @@
         padding-bottom: 20px;
     }
 
-    .tarjetaprecios{
+    .preciosmobil{
         width: 10rem;
         height: 14rem;
         margin-top: 10px;
