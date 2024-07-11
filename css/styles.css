@@ -51,8 +51,8 @@
 }
 
 .carousel-body{
-    margin-top: 20px;
     margin-left: 30%;
+    margin-top: 20px;
     height: 20%;
     width: 40%;
 }
@@ -188,11 +188,10 @@
 .form-img{
     width: 300px;
     height: 550px;
-    margin-left: 25%;
     margin-top: 60px;
     margin-bottom: 10px;
     margin-right: 10%;
-    justify-content: start;
+    margin-left: 25%;
     padding-left: 20px;
 }
 
@@ -313,10 +312,8 @@
 @media (max-width: 767px) {
 
     .carousel-body{
-    padding-right: 40%;
+    padding-right: 30%;
     margin-top: 20px;
-    height: 160px;
-    width: 200px;
     }
     
     .im-index{
@@ -330,12 +327,12 @@
         padding-bottom: 20px;
     }
 
-    .preciosmobil{
+    .tarjetaprecios{
         width: 10rem;
         height: 14rem;
         margin-top: 10px;
-        padding-right: 80px;
-        margin-bottom: 100px;
+        padding-right: 10%;
+        margin-bottom: 120px;
         padding-bottom: 50px;
     }
 
@@ -357,7 +354,7 @@
     border-top-color: #313131;
     margin-top: 50px;
     margin-bottom: 20px;
-}
+    }
 
     .card-margen{
         padding-bottom: 50px;
@@ -366,13 +363,15 @@
     .img-card-cate{
     width: 320px;
     height: 200px;
-}
+    }
 
     .form-img{
+    align-items: center;
     width: 300px;
     height: 550px;
-    margin-right: 160px;
-}
+    padding-left: 40px;
+    padding-right: 40px;
+    }   
 
     .elementform{
         padding-bottom: 20px;
