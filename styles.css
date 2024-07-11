@@ -1,0 +1,428 @@
+.body-fondo{
+    background-color: #fff;
+   
+}
+
+.navbar-nav .nav-item .nav-link:hover {
+    color:#313131;/* Color de texto al pasar el cursor */
+  }
+  .navbar-nav .nav-item .nav-link:active:focus {
+    color: #313131; /* Color de texto cuando el enlace está activo*/
+  }
+
+.accord-texto-titulo{
+    color:#313131;
+    margin-bottom: 40px;
+}
+
+.accordion .accordion-item .accordion-button{
+    background-color: #ccc;
+    color: #313131;
+    box-shadow: none;
+}
+  .accordion .accordion-item .accordion-button:not(.collapsed){
+    background-color: #b47938;
+    color: #313131;
+    box-shadow: none;
+}
+
+.acc-text{
+    background-color: #313131;
+    color: #fff;
+}
+
+.botonind{
+    margin-top: 10px;
+    justify-content: center;
+    border-color: #313131;
+    width: 300px;
+    border-style: solid;
+    border-radius: 20px;
+}
+
+.botoncate{
+    margin-top: 20px;
+    margin-left: 50px;
+    justify-content: center;
+    border-color: #313131;
+    width: 50px;
+    border-style: solid;
+    border-radius: 20px;
+}
+
+.carousel-body{
+    margin-top: 20px;
+    margin-left: 30%;
+    height: 20%;
+    width: 40%;
+}
+
+.card-bg{
+    background-color: #313131;
+}
+
+.card-texto{
+    margin-left: 0.25rem;
+    margin-bottom:0.5rem;
+    color:#313131;
+    text-justify: none;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.card-titulo{
+    font-size: 24px;
+    align-items: center;
+    border-bottom: 2px;
+    border-bottom-style: solid;
+    border-bottom-color: #313131;
+    color: #fff;
+    border-radius: 5px;
+    background-color: #B47938;
+    padding-bottom: 10px;
+}
+
+.card-cate{
+    width: 18rem;
+    height: 30rem;
+}
+
+.card-margen{
+    padding-bottom: 20px;
+}
+
+.card-texto-p{
+    color: #fff;
+    background-color: #313131;
+}
+
+.precio{
+    background-color: #313131;
+    color: #B47938;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    margin-left: 0px;
+}
+
+.asociat{
+   margin-top: 40px;
+}
+
+.item-planes{
+    margin-left: 0px;
+    margin-right: 25px;
+}
+
+.lip{
+    background-color: #313131;
+    color: #fff;
+}
+
+.botoninfo{
+    margin-top:30px;
+    margin-left: 35%;
+    justify-content: center;
+    border-color: #000;
+    width: 100px;
+    border-style: solid;
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+
+.img-card-cate{
+    width: 300px;
+    height: 300px;
+}
+
+.flex{
+    flex-direction: column;
+    flex: auto;
+    flex-grow: 1;
+}
+
+.footer-link{
+    margin-top: 20px;
+    margin-bottom: 30px;
+    margin-left: 50px;
+    color:#fff;
+    background-color: #313131;
+}
+
+.footer-style{
+    border-top: 5px;
+    background-color: #313131;
+    margin-top: 80px;
+    border-bottom: 5px;
+    padding-bottom: 40px;
+}
+
+.footer-text{
+    margin-top: 40px;
+    margin-bottom: 20px;
+    margin-left: 50px;
+    color:#fff;
+    background-color: #313131;
+}
+
+.formu{
+    padding-top: 25px;
+    padding-right: 20px;
+    padding-left: 20px;
+    background-color: #ccc;
+    border-color: #313131;
+}
+
+.form-back{
+    background-color: #ccc;
+}
+
+.form-fill{
+    margin-bottom: 30px;
+}
+
+.form-fill-wide{
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+.form-img{
+    width: 300px;
+    height: 550px;
+    margin-left: 25%;
+    margin-top: 60px;
+    margin-bottom: 10px;
+    margin-right: 10%;
+    justify-content: start;
+    padding-left: 20px;
+}
+
+.form-texto{
+    color:#313131;
+    background-color: #ccc;
+}
+
+.form-button{
+    margin-top:30px;
+    border-color: #000;
+    width: 150px;
+    border-style: solid;
+    border-radius: 20px;
+    margin-bottom:10px;
+}
+
+.Frase{
+    color: #313131;
+    margin-top: 40px;
+    margin-bottom: 40px; 
+    margin-left: 15px; 
+}
+
+.informacion{
+    color:#313131;
+    margin-bottom: 40px;
+    margin-left:15px;
+    margin-top:5px;
+    
+}
+
+.preguntas{
+    padding-left: 60px;
+}
+
+.header-style{
+    border-bottom: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, .08), 0 4px 12px rgba(0, 0, 0, .08);
+}
+
+.separador {
+    border-top: 1px;
+    border-top-style: solid;
+    border-top-color: #313131;
+    margin-top: 110px;
+    margin-bottom: 20px;
+}
+
+.im-index{
+    width: 580px;
+    height: 400px;
+    justify-items: center;
+    margin-left: 5%;
+}
+
+.itemp{
+    text-align: left;
+}
+
+.modal-header-bg{
+    background-color: #313131;
+}
+
+.modal-titulo{
+    color: #fff;
+}
+
+.modal-texto{
+    color: #313131;
+    background-color: #fff;
+}
+
+.nav-logo{
+    width: 170px; 
+    height: 50px;
+    margin-left: 10%;
+}
+
+.nav-bg{
+    background-color: #313131;
+}
+
+.svg-footer{
+    margin-top: 20px;
+    margin-left: 50px;
+    background-color: #313131;
+}
+
+.svg-card{
+    height: 14px;
+    width: 14px;
+    margin-right: 5px;
+}
+
+.tarjetaprecios{
+    margin-top: 100px;
+    margin-left: 15%;
+    padding-bottom: 80px;
+    align-content: center;
+}
+
+.Texto{
+    color:#313131;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 30px;  
+}
+
+.Textoprincipal{
+    color:#313131;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    margin-left: 15px;
+    font-family: 'Rubik',sans-serif;
+}
+
+@media (max-width: 767px) {
+
+    .carousel-body{
+    padding-right: 40%;
+    margin-top: 20px;
+    height: 240px;
+    width: 320px;
+    }
+    
+    .im-index{
+        width: 320px;
+        height: 200px;
+        
+    }
+
+    .form-texto{
+        margin-bottom: 10px;
+        padding-bottom: 20px;
+    }
+
+    .tarjetaprecios{
+        width: 10rem;
+        height: 14rem;
+        margin-top: 10px;
+        padding-right: 10%;
+        margin-bottom: 160px;
+        padding-bottom: 50px;
+    }
+
+    .tituloplanes{
+        margin-top: 40px;
+        margin-bottom: 0px;
+        margin-left: 10px;
+    }
+
+    .catemovil{
+        margin-left: 10px;
+        width: 320px;
+        height: 700px;
+   }
+
+   .separador {
+    border-top: 1px;
+    border-top-style: solid;
+    border-top-color: #313131;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+    .card-margen{
+        padding-bottom: 50px;
+    }
+    
+    .img-card-cate{
+    width: 320px;
+    height: 200px;
+}
+
+    .form-img{
+    align-items: center;
+    width: 240px;
+    height: 4200px;
+    padding-right: 160px;
+}
+
+    .elementform{
+        padding-bottom: 20px;
+    }
+
+    .preguntas{
+        padding-right: 40px;
+        padding-left: 40px;
+    }
+
+    .formu{
+        padding-right: 40px;
+        padding-left: 40px;
+    }
+    
+    .Textoprincipal{
+        padding-left: 30px;
+        padding-right: 40px;
+    }
+
+    .informacion{
+        padding-left: 30px;
+        padding-right: 40px;
+    }
+
+    .form-button{
+        margin-top:10px;
+        border-color: #313131;
+        width: 150px;
+        border-style: solid;
+        border-radius: 20px;
+    }
+
+    .Textopie{
+        margin-top: 40px;
+        margin-bottom: 20px;
+        color:#313131;
+    }
+
+    .linkpie{
+        margin-top: 20px;
+        margin-bottom: 30px;
+        color:#313131;
+    }
+
+    .svg-footer{
+        margin-top: 20px;
+        width: 20px;
+        height: 20px;
+    }
+
+}
