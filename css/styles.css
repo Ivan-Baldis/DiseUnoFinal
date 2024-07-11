@@ -314,9 +314,8 @@
 
     .carousel-body{
     margin-top: 20px;
-    margin-left: 30%;
-    height: 300px;
-    width: 560px;
+    height: 200px;
+    width: 380px;
     }
     
     .im-index{
@@ -334,7 +333,7 @@
         width: 10rem;
         height: 14rem;
         margin-top: 10px;
-        margin-right: 40px;
+        margin-right: 80px;
         margin-bottom: 100px;
         padding-bottom: 50px;
     }
@@ -371,6 +370,7 @@
     .form-img{
     width: 300px;
     height: 550px;
+    margin-right: 160px;
 }
 
     .elementform{
