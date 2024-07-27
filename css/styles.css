@@ -43,6 +43,19 @@
     color: #fff;
 }
 
+.btn-secondary{
+    background-color: #b47938 !important;
+    border-color: #b47938 !important;
+}
+    .btn-secondary:active{
+        background-color: #b47938 !important;
+        border-color: #b47938 !important;
+    }
+    .btn-secondary:hover{
+        background-color: #905719 !important;
+        border-color: #905719 !important;
+    }
+
 .botonind{
     margin-top: 10px;
     justify-content: center;
