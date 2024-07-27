@@ -1,6 +1,15 @@
 .body-fondo{
-    background-color: #fff;
-   
+    background-color: #fff;  
+}
+
+.btn-info{
+    background-color: #fff !important;
+    border-color: #fff !important;
+}
+
+.dropdown-item:hover{
+    background-color: #b47938 !important;
+    color: #fff !important;
 }
 
 .navbar-nav .nav-item .nav-link:hover {
@@ -41,7 +50,6 @@
     width: 300px;
     border-style: solid;
     border-radius: 20px;
-    color: #B47938;
 }
 
 .botoncate{
@@ -179,6 +187,7 @@
 }
     .form-check .form-check-input:focus {
     box-shadow: none;
+    border-color: #b47938;
 }
 
 .form-back{
@@ -188,6 +197,12 @@
 .form-fill{
     margin-bottom: 30px;
 }
+
+.form-control:focus{
+    border-color: #b47938 !important;
+    box-shadow: none !important;
+}
+
 
 .form-img{
     margin-bottom: 10px;

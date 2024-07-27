@@ -92,12 +92,16 @@
                 </div>
                 <div class="col-md-6 mb-1 form-back">
                     <p class="form-texto">Cursos disponibles:</p>
-                    <select class="form-select form-fill" aria-label="Default select example">
-                    <option selected>Seleccione un curso.</option>
-                    <option value="1">Datos</option>
-                    <option value="2">Desarrollo</option>
-                    <option value="3">Diseño</option>
-                    </select>
+                    <div class="btn-group">
+  <button type="button" class="btn btn-info dropdown-toggle" data-bs-toggle="dropdown" data-bs-display="static" aria-expanded="false">
+    Seleccione un curso.
+  </button>
+  <ul class="dropdown-menu dropdown-menu-end dropdown-menu-lg-start">
+    <li><a class="dropdown-item" href="#">Datos</a></li>
+    <li><a class="dropdown-item" href="#">Desarrollo</a></li>
+    <li><a class="dropdown-item" href="#">Diseño</a></li>
+  </ul>
+</div>
                 </div>
               </div>
 

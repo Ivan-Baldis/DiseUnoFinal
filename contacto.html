@@ -85,13 +85,17 @@
                 </div>
                 <div class="col-md-6 mb-1 form-back">
                   <p class="form-texto">Motivo de contacto:</p>
-                  <select class="form-select form-fill" aria-label="Default select example">
-                    <option selected>Seleccione un motivo</option>
-                    <option value="1">Cursos ofrecidos</option>
-                    <option value="2">Horarios de cursado</option>
-                    <option value="3">Clases de prueba</option>
-                    <option value="4">Otros</option>
-                  </select>
+                  <div class="btn-group">
+  <button type="button" class="btn btn-info dropdown-toggle" data-bs-toggle="dropdown" data-bs-display="static" aria-expanded="false">
+    Seleccione un motivo.
+  </button>
+  <ul class="dropdown-menu dropdown-menu-end dropdown-menu-lg-start">
+    <li><a class="dropdown-item" href="#">Cursos ofrecidos</a></li>
+    <li><a class="dropdown-item" href="#">Horarios de cursado</a></li>
+    <li><a class="dropdown-item" href="#">Clases de prueba</a></li>
+    <li><a class="dropdown-item" href="#">Otros</a></li>
+  </ul>
+</div>
                 </div>
               </div>
               <div class="mb-3 form-back">
