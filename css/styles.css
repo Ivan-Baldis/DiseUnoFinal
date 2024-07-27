@@ -171,6 +171,10 @@
     color:#fff;
     background-color: #313131;
 }
+    .footer-link:hover{
+    color:#b47938;
+    }
+
 .footer-style{
     border-top: 5px;
     background-color: #313131;
