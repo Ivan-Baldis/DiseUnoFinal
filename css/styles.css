@@ -338,9 +338,14 @@
     
     .im-index{
         width: 320px;
-        height: 320px;
-        
+        height: 320px;    
     }
+    
+    .nav-logo{
+    width: 120px; 
+    height: 30px;
+    margin-left: 5%;
+}
     
     .carousel-body{
     position: relative;
